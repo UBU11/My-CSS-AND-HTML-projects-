@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 100px;
+}
+img{
+ 
+    margin-right : auto;
+   margin-left : auto;
+    display : block;
+   
+}
+body{
+    background-color: #a2d2ff;
+}
+p{
+    background-image: url(https://cmsimages.timesgroup.com/image-resizer/TimesSpecial?s3_path=TimesSpecial/posts/1671734053311/assets/featureImages/1671734814914-ARGENTINA.jpg&w=1200&h=630&fit=contain&q=50);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+}
+.image:hover{
+transition:2s ;
+margin-right:25% ;
+}
+.image{
+    transition: 2s;
+}

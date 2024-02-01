@@ -1,2 +1,2 @@
-# Tutorial-New-repo
-creating repo for applying what i learned from tutorials
+* you can view my few projects
+  
